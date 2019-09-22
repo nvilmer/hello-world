@@ -5,6 +5,8 @@ This is a Python/Flask example of hello world using Python, Flask, Docker and Ku
 ### Development environment 
     - macOS Mojava 
     - Docker Desktop with Kubernetes enabled
+    - Python 3.7.3 (installed via brew)
+    - PyCharm Community 2019.2 (w/Docker plugin)
 
 ### Files
 
